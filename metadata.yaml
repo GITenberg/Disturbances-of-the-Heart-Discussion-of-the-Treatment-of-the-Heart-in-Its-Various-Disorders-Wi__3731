@@ -1,0 +1,24 @@
+_repo: Disturbances-of-the-Heart-Discussion-of-the-Treatment-of-the-Heart-in-Its-Various-Disorders-Wi__3731
+creator:
+  author:
+    agent_name: Osborne, Oliver T. (Oliver Thomas)
+    birthdate: 1862
+    deathdate: 1940
+    gutenberg_agent_id: '1282'
+    url: http://www.gutenberg.org/2009/agents/1282
+description: ''
+gutenberg_issued: '2003-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3731'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Blood pressure'
+- !lcc 'RC'
+- !lcsh 'Heart -- Diseases'
+title: "Disturbances of the Heart\r\nDiscussion of the Treatment of the Heart in Its\
+  \ Various Disorders, With a Chapter on Blood Pressure"
+url: http://www.gutenberg.org/ebooks/3731
