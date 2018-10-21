@@ -1,5 +1,5 @@
 _repo: Disturbances-of-the-Heart-Discussion-of-the-Treatment-of-the-Heart-in-Its-Various-Disorders-Wi__3731
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -25,6 +25,7 @@ subjects:
 - !lcsh 'Blood pressure'
 - !lcc 'RC'
 - !lcsh 'Heart -- Diseases'
+- GITenberg
 title: "Disturbances of the Heart\r\nDiscussion of the Treatment of the Heart in Its\
   \ Various Disorders, With a Chapter on Blood Pressure"
 url: http://www.gutenberg.org/ebooks/3731
